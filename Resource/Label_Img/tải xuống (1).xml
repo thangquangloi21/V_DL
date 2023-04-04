@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>Label_Img</folder>
+	<filename>tải xuống (1).png</filename>
+	<path>E:/.Clone vision/MES_Deep_Learning/Resource/Label_Img/tải xuống (1).png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>215</width>
+		<height>235</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>B</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>0</xmin>
+			<ymin>0</ymin>
+			<xmax>103</xmax>
+			<ymax>205</ymax>
+		</bndbox>
+		<color>#00ff00</color>
+	</object>
+</annotation>

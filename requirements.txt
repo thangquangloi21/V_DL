@@ -1,0 +1,7 @@
+opencv-python==4.6.0.66
+pyqt5~=5.15.7
+pyserial~=3.5
+lxml~=4.9.1
+
+numpy~=1.23.4
+jsonpickle~=2.2.0

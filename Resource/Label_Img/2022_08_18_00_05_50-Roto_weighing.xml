@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>Label_Img</folder>
+	<filename>2022_08_18_00_05_50-Roto_weighing.jpg</filename>
+	<path>E:/.Clone vision/MES_Deep_Learning/Resource/Label_Img/2022_08_18_00_05_50-Roto_weighing.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>1944</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tail</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1325</xmin>
+			<ymin>1213</ymin>
+			<xmax>1618</xmax>
+			<ymax>1472</ymax>
+		</bndbox>
+		<color>#00ff00</color>
+	</object>
+	<object>
+		<name>tail</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1196</xmin>
+			<ymin>609</ymin>
+			<xmax>1489</xmax>
+			<ymax>868</ymax>
+		</bndbox>
+		<color>#00ff00</color>
+	</object>
+</annotation>

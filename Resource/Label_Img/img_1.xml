@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>Label_Img</folder>
+	<filename>img_1.png</filename>
+	<path>E:/.Clone vision/MES_Deep_Learning/Resource/Label_Img/img_1.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>178</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>eyes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>127</xmin>
+			<ymin>31</ymin>
+			<xmax>150</xmax>
+			<ymax>47</ymax>
+		</bndbox>
+		<color>#00ff00</color>
+	</object>
+	<object>
+		<name>eyes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>91</xmin>
+			<ymin>30</ymin>
+			<xmax>112</xmax>
+			<ymax>47</ymax>
+		</bndbox>
+		<color>#00ff00</color>
+	</object>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>71</xmin>
+			<ymin>1</ymin>
+			<xmax>171</xmax>
+			<ymax>84</ymax>
+		</bndbox>
+		<color>#00ff00</color>
+	</object>
+</annotation>

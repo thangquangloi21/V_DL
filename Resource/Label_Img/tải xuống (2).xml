@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>Label_Img</folder>
+	<filename>tải xuống (2).png</filename>
+	<path>E:/.Clone vision/MES_Deep_Learning/Resource/Label_Img/tải xuống (2).png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>205</width>
+		<height>246</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tamgiac</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>60</xmin>
+			<ymin>37</ymin>
+			<xmax>144</xmax>
+			<ymax>174</ymax>
+		</bndbox>
+		<color>#00ff00</color>
+	</object>
+</annotation>
